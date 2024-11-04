@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm AQEEL!
 
-[![GitHub followers](https://img.shields.io/github/followers/aqeel-saeed?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/aqeel-saeed?label=Follow&style=social)](https://github.com/aqeel-saeed)
 
 Welcome to my GitHub profile! I'm a [Back-End Engineer & Quality Assurance Engineer] passionate about open-source development, building web applications, testing edge cases and debugging.
 
