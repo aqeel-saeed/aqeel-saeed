@@ -38,8 +38,11 @@ Welcome to my GitHub profile! I'm a [Back-End Engineer & Quality Assurance Engin
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqeel-saeed&layout=compact&theme=radical)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqeel-saeed&show_icons=true&count_private=true&theme=radical)
+
 ![Streak_Chart](https://github-readme-streak-stats.herokuapp.com/?user=aqeel-saeed&show_icons=true&locale=en&theme=radical)
+
 ![Profile_Trophy](https://github-profile-trophy.vercel.app/?username=aqeel-saeed&theme=radical)
 ---
 
